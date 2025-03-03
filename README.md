@@ -1,4 +1,4 @@
 # Rainforest-Biosphere2
 
-# Contributors - Sai Laasya Gorantla
-# Contributors - Monika Reddy
+### Contributors - Sai Laasya Gorantla
+### Contributors - Monika Reddy
